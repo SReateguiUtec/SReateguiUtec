@@ -1,4 +1,4 @@
-<h1>Hi there! 👋</h1>
+<h1>Hi, Im Sebastian 👋</h1>
 
 <img src="readmegh.gif" align="right" width="410" style="margin-left: 15px;" />
 
@@ -9,7 +9,7 @@
 
   <h3>Interests 🎯</h3>
   <p>
-    Fintech, Full Stack Development, Infrastructure, Systems Optimization, and Artificial Intelligence.
+    Fintech, Full Stack Development, Infrastructure, Systems Optimization, Computer Architecture and Artificial Intelligence.
   </p>
 
   <h3>Tech Stack 💻</h3>
