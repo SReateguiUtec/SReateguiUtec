@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<!-- Tu GIF personalizado alineado a la derecha -->
 <img src="readmeSR.gif" align="right" width="350" alt="Terminal Interface" />
 
 <p>
@@ -14,13 +13,8 @@
 
 <h3>Tech Stack 💻</h3>
 
-<div>
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,cs,rust,go" height="45" alt="languages" />
-  <br>
-  <!-- Frameworks & Infrastructure -->
-  <img src="https://skillicons.dev/icons?i=nextjs,spring,react,docker,aws,html,css" height="45" alt="frameworks" />
-  <br>
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,postman,r,matlab,latex" height="45" alt="tools" />
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts" height="45"/>
+<br>
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,docker,aws" height="45"/>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,postman" height="45"/>
