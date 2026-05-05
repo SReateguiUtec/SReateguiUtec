@@ -3,9 +3,7 @@
 <img src="readmegh.gif" align="right" width="410" style="margin-left: 15px;" />
 
 <div style="display: block;">
-  <p>
-    I am a <b>Computer Science student</b>. I always enjoy learning new things and giving my best to every project.
-  </p>
+> I am a **Computer Science student**. I always enjoy learning new things and giving my best to every project.
 
   <h3>Interests 🎯</h3>
   <p>
