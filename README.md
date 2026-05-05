@@ -1,4 +1,4 @@
-<h1>Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <img src="readmeSR.gif" align="right" width="400" alt="Terminal Interface" />
 
@@ -16,9 +16,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts&perline=5" />
   <br>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,react,nextjs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,express,react&perline=5" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,docker&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,mysql,mongodb&perline=5" />
   <br>
-  <img src="https://skillicons.dev/icons?i=aws,git,postman&perline=5" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,postman&perline=5" />
 </p>
