@@ -6,7 +6,7 @@
 
 > I am a **Computer Science student**. I always enjoy learning new things and giving my best to every project.
 
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)&nbsp;![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)&nbsp;![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)&nbsp;![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-20416B?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)&nbsp;![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)&nbsp;![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)&nbsp;![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Interests 🎯
 
