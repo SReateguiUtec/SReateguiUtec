@@ -14,11 +14,14 @@ Computer Architecture, Full Stack Development, Infrastructure, Systems Optimizat
 
 ### Tech Stack 💻
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts&perline=5" /><br>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,express,react&perline=5" /><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,mysql,mongodb&perline=5" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,postman&perline=5" />
-</p>
+<!-- Lenguajes -->
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openai&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+
+<!-- Frameworks / Backend -->
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<!-- DB & Infra -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=white)
+
 </div>
 <br clear="right" />
