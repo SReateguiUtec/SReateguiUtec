@@ -1,4 +1,4 @@
-<h1 align="center">> Hi, Im Sebastian 👋</h1>
+<h1> Hi, Im Sebastian 👋</h1>
 
 <img src="readmegh.gif" align="right" width="410" style="margin-left: 15px;" alt="Terminal Interface" />
 
