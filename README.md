@@ -6,7 +6,7 @@
 
 > I am a **Computer Science student**. I always enjoy learning new things and giving my best to every project.
 
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)&nbsp;![OpenRouter](https://img.shields.io/badge/-OpenRouter-6566E5?style=flat-square&logo=openrouter&logoColor=white)&nbsp;![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)&nbsp;![Hugging_Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)&nbsp;![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)&nbsp;![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)&nbsp;![OpenRouter](https://img.shields.io/badge/-OpenRouter-6566E5?style=flat-square&logo=openrouter&logoColor=white)&nbsp;![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)&nbsp;![Hugging_Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)&nbsp;![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)&nbsp;![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)&nbsp;![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Interests 🎯
 
