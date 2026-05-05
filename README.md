@@ -7,8 +7,7 @@
 > I am a **Computer Science student**. I always enjoy learning new things and giving my best to every project.
 
 ### Interests 🎯
-
-Computer Architecture, Full Stack Development, Infrastructure, Systems Optimization, and Artificial Intelligence.
+> Computer Architecture, Fintech, Full Stack Development, Infrastructure, Systems Optimization, and Artificial Intelligence.
 
 ### Tech Stack 💻
 
