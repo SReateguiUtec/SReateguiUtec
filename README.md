@@ -1,12 +1,10 @@
 <h1> Hi, Im Sebastian 👋</h1>
 
-<img src="readmeSR.gif" align="right" width="410" style="margin-left: 15px;" alt="Terminal Interface" />
+<img src="readmegh.gif" align="right" width="410" style="margin-left: 15px;" alt="Terminal Interface" />
 
 <div style="display: block;">
 
 > I am a **Computer Science student**. I always enjoy learning new things and giving my best to every project.
-
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Interests 🎯
 
@@ -22,6 +20,8 @@ Computer Architecture, Full Stack Development, Infrastructure, Systems Optimizat
 
 <!-- DB & Infra -->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </div>
 <br clear="right" />
