@@ -1,20 +1,24 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1>Hi there! 👋</h1>
 
-<!-- El GIF se queda a la derecha -->
-<img src="readmeSR.gif" align="right" width="380" alt="Terminal Interface" />
+<img src="readmeSR.gif" align="right" width="400" alt="Terminal Interface" />
 
-<!-- Limitamos el ancho del texto y los iconos para que no choquen -->
-<div style="width: 55%;">
-  <p>
-    I am a <b>Computer Science student</b>. I always enjoy learning new things and giving my best to every project.
-  </p>
+<p>
+  I am a <b>Computer Science student</b>. I always enjoy learning new things and giving my best to every project.
+</p>
 
-  <h3>Interests 🎯</h3>
-  <p>
-    Fintech, Full Stack Development, Infrastructure, Systems Optimization, and Artificial Intelligence.
-  </p>
+<h3>Interests 🎯</h3>
+<p>
+  Fintech, Full Stack Development, Infrastructure, Systems Optimization, and Artificial Intelligence.
+</p>
 
-  <h3>Tech Stack 💻</h3>
-  <!-- Agrupamos los iconos para que salten de línea automáticamente dentro del 55% -->
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,spring,fastapi,flask,react,nextjs,nodejs,postgres,mysql,mongodb,docker,aws,git,postman" />
-</div>
+<h3>Tech Stack 💻</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts&perline=5" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,react,nextjs&perline=5" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,docker&perline=5" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,git,postman&perline=5" />
+</p>
