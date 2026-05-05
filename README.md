@@ -1,7 +1,6 @@
-<h1>Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
-<!-- El GIF con un pequeño espacio a la izquierda para que no choque con el texto -->
-<img src="readmeSR.gif" align="right" width="420" style="margin-left: 20px;" alt="Terminal Interface" />
+<img src="readmeSR.gif" align="right" width="410" style="margin-left: 15px;" />
 
 <div style="display: block;">
   <p>
@@ -14,17 +13,11 @@
   </p>
 
   <h3>Tech Stack 💻</h3>
-  
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts&perline=5" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,express,react&perline=5" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,mysql,mongodb&perline=5" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,postman&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,express,react&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,mysql,mongodb&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,postman&perline=5" />
   </p>
 </div>
-
-<!-- Un divisor invisible para limpiar el flotado y que nada se meta debajo del GIF si añades más cosas luego -->
 <br clear="right" />
