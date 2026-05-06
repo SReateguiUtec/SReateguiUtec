@@ -1,6 +1,6 @@
 <h1> Hi, Im Sebastian 👋</h1>
 
-<img src="readme2.gif" align="right" width="350" style="margin-left: 15px;" alt="Terminal Interface" />
+<img src="readme2.gif" align="right" width="300" style="margin-left: 15px;" alt="Terminal Interface" />
 
 <div style="display: block;">
 
