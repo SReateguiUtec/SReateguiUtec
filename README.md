@@ -4,7 +4,7 @@
 
 <div style="display: block;">
 
-> I am a **Computer Science student**. I always enjoy learning new things and giving my best to every project.
+> I am a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
 
 ### Interests 🎯
 > Computer Architecture, Fintech, Full Stack Development, Infrastructure, Systems Optimization, and Artificial Intelligence.
