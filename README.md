@@ -7,7 +7,7 @@
 > I am a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
 
 ### Interests 🎯
-> Computer Architecture, Fintech, Full Stack Development, Infrastructure, Systems Optimization, and Artificial Intelligence.
+> AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.
 
 <br />
 
