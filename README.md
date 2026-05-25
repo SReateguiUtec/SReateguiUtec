@@ -1,6 +1,6 @@
 <h1> Hello there, SR here </h1>
 
-<img src="intro.gif" align="right" width="400" style="margin-left: 15px;" alt="Terminal Interface" />
+<img src="intro.gif" align="right" width="350" style="margin-left: 15px;" alt="Terminal Interface" />
 
 <div style="display: block;">
 
