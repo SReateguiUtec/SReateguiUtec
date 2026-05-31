@@ -11,11 +11,12 @@
 <!-- Este contenido se renderizará a la derecha del GIF -->
 <div>
 <br />
-
-<blockquote> I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.</blockquote>
+  
+### About me 📋
+I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
 
 ### Interests 🎯
-<blockquote> AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.</blockquote>
+AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.
 
 </div>
 
