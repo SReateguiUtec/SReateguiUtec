@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB86C&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
 </a>
 <img src="intro.gif" width="350" alt="Terminal Interface" />
-<br /><br />
 
 > I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.</blockquote>
 
