@@ -10,7 +10,6 @@
 
 <!-- Este contenido se renderizará a la izquierda del GIF -->
 <div>
-<br />
   
 ### About me 📋
 I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
@@ -22,7 +21,6 @@ AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Co
 
 <!-- Rompemos el flujo flotante aquí para que el Tech Stack empiece abajo de la imagen -->
 <br clear="both" />
-<br />
 
 ### Tech Stack 💻
 <p align="left">
