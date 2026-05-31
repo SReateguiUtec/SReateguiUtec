@@ -4,12 +4,24 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB86C&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
 </a>
-<img src="intro.gif" width="350" alt="Terminal Interface" />
 
-> I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.</blockquote>
+<!-- El GIF flotando a la izquierda -->
+<img src="intro.gif" align="left" width="350" style="margin-right: 20px; margin-bottom: 20px;" alt="Terminal Interface" />
+
+<!-- Este contenido se renderizará a la derecha del GIF -->
+<div>
+<br />
+
+<blockquote> I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.</blockquote>
 
 ### Interests 🎯
 <blockquote> AI, Fintech, Full Stack Development, Infrastructure, Systems Optimization and Computer Architecture.</blockquote>
+
+</div>
+
+<!-- Rompemos el flujo flotante aquí para que el Tech Stack empiece abajo de la imagen -->
+<br clear="left" />
+<br />
 
 ### Tech Stack 💻
 <p align="left">
