@@ -11,12 +11,12 @@
 
 <!-- Animación SVG con el color dorado exacto de tu interfaz de terminal -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one." alt="Typing SVG" />
 </a>
 
 **CS Student @ UTEC**
 
-*Focused on clean code, modern infrastructure, and AI. <br/>
+*I'm a **Computer Science student** living in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
 Open to internships and freelance projects!*
 
 <p align="left">
@@ -25,7 +25,7 @@ Open to internships and freelance projects!*
 </p>
 
 ## About me
-I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
+I always enjoy learning new things and giving my best to every project.
 <ul>
   <li>Currently learning: <strong>Rust · NestJS · Angular</strong></li>
   <li>Interests: <strong>AI · Fintech · Full Stack Development · Infrastructure · Systems Optimization · Computer Architecture</strong></li>
