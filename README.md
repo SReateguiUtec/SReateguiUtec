@@ -15,7 +15,7 @@
 
 **CS Student @ UTEC**
 
-*Software engineering student focused on clean code, modern infrastructure, and AI. Open to internships and freelance projects!*
+*Focused on clean code, modern infrastructure, and AI. Open to internships and freelance projects!*
 
 <p align="left">
   <a href="https://sreateguidev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
