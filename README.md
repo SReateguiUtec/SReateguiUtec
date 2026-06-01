@@ -1,6 +1,5 @@
 <h1> Hello there, SR here 👋 </h1>
 
-<!-- Este contenido se renderizará a la izquierda del GIF -->
 <div>
 <pre>
 #    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
