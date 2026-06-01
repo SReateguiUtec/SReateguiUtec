@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one.;Where+'it+works+on+my+machine'+is+a+valid+argument%2C+lol." alt="Typing SVG" />
 </a>
+  
 <pre>
 #    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
 #    ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██ 
@@ -24,7 +25,6 @@
 
 ## About me
 I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
-
 <ul>
   <li>Currently learning: <strong>Rust · NestJS · Angular</strong></li>
   <li>Interests: <strong>AI · Fintech · Full Stack Development · Infrastructure · Systems Optimization · Computer Architecture</strong></li>
@@ -43,3 +43,7 @@ I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning
 <p align="left">
 <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-OpenRouter-6566E5?style=flat-square&logo=openrouter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-MCP_Servers-FF4B11?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Skills.md-00ADFF?style=flat-square&logo=probot&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
+
+<br />
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
