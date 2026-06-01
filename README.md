@@ -10,7 +10,14 @@
 
 <!-- Este contenido se renderizará a la izquierda del GIF -->
 <div>
-  
+<pre>
+#    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
+#    ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██ 
+#    ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██ 
+#    ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██         
+#     ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██ 
+</pre>
+
 ### About me 📋
 I'm a **Computer Science student** living in Lima, Peru. I always enjoy learning new things and giving my best to every project.
 
