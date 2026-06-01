@@ -1,4 +1,4 @@
-<h1> Hello there, SR here 👋 </h1>
+<h1> Hello there 👋, SR here! </h1>
 
 <div>
 <pre>
@@ -8,21 +8,22 @@
 #    ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██         
 #     ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██ 
 </pre>
-
-<!-- Animación SVG con el color dorado exacto de tu interfaz de terminal -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one." alt="Typing SVG" />
-</a>
-
-**CS Student @ UTEC**
+  
+<ins>**CS Student @ UTEC**</ins>
 
 *I'm a **Computer Science student** living in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
 Open to internships and freelance projects!*
+
+<ins>**Some quick info**</ins>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
   <a href="https://sreateguidev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
   <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
+---
 
 ## About me
 I always enjoy learning new things and giving my best to every project.
@@ -31,8 +32,6 @@ I always enjoy learning new things and giving my best to every project.
   <li>Interests: <strong>AI · Fintech · Full Stack Development · Infrastructure · Systems Optimization · Computer Architecture</strong></li>
   <li>Languages: Spanish 🇵🇪 · English 🇺🇸</li>
 </ul>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -46,3 +45,10 @@ I always enjoy learning new things and giving my best to every project.
 <p align="left">
 <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-OpenRouter-6566E5?style=flat-square&logo=openrouter&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-MCP_Servers-FF4B11?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Skills.md-00ADFF?style=flat-square&logo=probot&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
+
+<br />
+
+<!-- Animación SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one." alt="Typing SVG" />
+</a>
