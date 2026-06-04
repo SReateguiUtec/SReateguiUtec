@@ -28,7 +28,7 @@ Open to internships and freelance projects!*
 ## 👨‍💻 About me
 I always enjoy learning new things and giving my best to every project.
 <ul>
-  <li>Currently learning: <strong>Rust · NestJS · Angular</strong></li>
+  <li>Currently learning: <strong>Rust · NestJS · Nuxt</strong></li>
   <li>Interests: <strong>AI · Fintech · Full Stack Development · Infrastructure · Systems Optimization</strong> </li>
   <li>Languages: Spanish 🇵🇪 · English 🇺🇸</li>
 </ul>
