@@ -1,4 +1,4 @@
-<h1> Hello there 👋, Sebastian here! </h1>
+<h1> Hi there 👋, I'm Sebastian! </h1>
 
 <div>
 <pre>
