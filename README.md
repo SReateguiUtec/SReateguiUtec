@@ -50,5 +50,7 @@ I always enjoy learning new things and giving my best to every project.
 
 <!-- Animación SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Thinking+in+O(1)+but+living+in+O(n).;Locating+the+missing+semicolon+since+day+one." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=550&height=40&lines=Defending+the+codebase%2C+one+commit+at+a+time.;Shooting+down+bugs+before+they+reach+production." alt="Typing SVG" />
 </a>
+
+![Space Shooter Game](./game.gif)
