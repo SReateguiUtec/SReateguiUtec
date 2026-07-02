@@ -27,11 +27,12 @@ Open to internships and freelance projects!*
 ---
 
 ## About me
+
 I always enjoy learning new things and giving my best to every project.
-<ul>
-  <li>Next up: <strong>Rust · NestJS · Nuxt</strong></li>
-  <li>Interests: <strong>AI · Full Stack Development · Infrastructure · Systems Optimization</strong> </li>
-</ul>
+
+> **Next up:** `Rust` `NestJS` `Nuxt`
+>
+> **Interests:** `AI` `Full Stack Development` `Infrastructure` `Systems Optimization`
 
 </div>
 
