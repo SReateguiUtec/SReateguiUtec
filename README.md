@@ -14,8 +14,8 @@ Open to internships and freelance projects!*
 <p>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SReateguiUtec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
   &nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SReateguiUtec&theme=dark&short_numbers=true&card_height=165" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/cyberknight777/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SReateguiUtec&theme=dark&short_numbers=true&card_height=165" alt="GitHub Streak"         height="165" />
   </a>
 </p>
 
