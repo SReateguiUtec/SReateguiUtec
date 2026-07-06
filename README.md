@@ -30,9 +30,9 @@ Open to internships and freelance projects!*
 
 I always enjoy learning new things and giving my best to every project.
 
-> **Next up:** `Rust` `NestJS` `Nuxt`
+> **Next up:** `Rust` - `Zig` - `NestJS`
 >
-> **Interests:** `AI` `Full Stack Development` `Infrastructure` `Systems Optimization`
+> **Interests:** `AI` - `Full Stack Development` - `Infrastructure` - `Systems Optimization`
 
 </div>
 
