@@ -1,5 +1,7 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
+![Space Shooter Game](./game.gif)
+
 <ins>**CS Student @ UTEC**</ins>
 
 *I'm a **Computer Science student** living in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
@@ -42,8 +44,6 @@ I always enjoy learning new things and giving my best to every project.
 </p>
 
 ---
-
-![Space Shooter Game](./game.gif)
 
 <!-- Animación SVG -->
 <p align="center">
