@@ -1,14 +1,5 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-<div>
-<pre>
-#    ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
-#    ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██ 
-#    ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██ 
-#    ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██         
-#     ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██ 
-</pre>
-  
 <ins>**CS Student @ UTEC**</ins>
 
 *I'm a **Computer Science student** living in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
@@ -38,8 +29,6 @@ I always enjoy learning new things and giving my best to every project.
 > **Next up:** `Rust` - `Zig` - `NestJS`
 >
 > **Interests:** `AI` - `Full Stack Development` - `Infrastructure` - `Systems Optimization`
-
-</div>
 
 
 ## Tech Stack
