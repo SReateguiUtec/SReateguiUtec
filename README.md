@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-![Space Shooter Game](./game.gif)
+<br/>
 
 <ins>**CS Student @ UTEC**</ins>
 
@@ -44,6 +44,8 @@ I always enjoy learning new things and giving my best to every project.
 </p>
 
 ---
+
+![Space Shooter Game](./game.gif)
 
 <!-- Animación SVG -->
 <p align="center">
