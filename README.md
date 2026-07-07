@@ -1,7 +1,5 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-<br/>
-
 <ins>**CS Student @ UTEC**</ins>
 
 *I'm a **Computer Science student** living in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
