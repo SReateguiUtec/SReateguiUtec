@@ -5,6 +5,8 @@
 *I'm a **Computer Science student** based in Lima, Peru. Focused on clean code, modern infrastructure, and AI. <br/>
 Open to internships and freelance projects!*
 
+![Space Shooter Game](./game.gif)
+
 <p align="left">
   <a href="https://sreateguibellido.xyz/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=007BFF" alt="Portfolio" /></a>&nbsp;
   <a href="mailto:reateguisebastian1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -21,15 +23,6 @@ Also seeking future roles as an AI Engineer or Full Stack Developer.*
 >
 > **Interests:** `AI` - `Full Stack Development` - `Infrastructure` - `Systems Optimization`
 
-<br/>
-<p>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/cyberknight777/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasreateguib&theme=dark&short_numbers=true&card_height=165" alt="GitHub Streak" height="165" />
-  </a>
-</p>
-
 
 ## Tech Stack
 *A collection of tools, languages, and frameworks I have built projects with, learned throughout my university journey, or am actively exploring.*
@@ -45,11 +38,11 @@ Also seeking future roles as an AI Engineer or Full Stack Developer.*
 
 ---
 
-![Space Shooter Game](./game.gif)
-
-<!-- Animación SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=23&center=true&vCenter=true&pause=1000&color=007BFF&width=950&height=30&lines=Defending+the+codebase%2C+one+commit+at+a+time!;Shooting+down+bugs+before+they+reach+production.." alt="Typing SVG" />
+<br/>
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sebasreateguib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="165" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/cyberknight777/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasreateguib&theme=dark&short_numbers=true&card_height=165" alt="GitHub Streak" height="165" />
   </a>
 </p>
