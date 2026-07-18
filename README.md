@@ -25,7 +25,7 @@ Also seeking future roles as an AI Engineer or Full Stack Developer.*
   </a>
 </p>
 
-> **Next up:** `Rust` - `Zig` - `NestJS`
+> **Next up:** `Rust` - `NestJS`
 >
 > **Interests:** `AI` - `Full Stack Development` - `Infrastructure` - `Systems Optimization`
 
