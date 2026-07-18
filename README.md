@@ -44,7 +44,6 @@ Also seeking future roles as an AI Engineer or Full Stack Developer.*
 ---
 
 ## Space-Shooter&trade;
+*Shooting down bugs before they reach prod lol*
 
 ![Space Shooter Game](./game.gif)
-
-<p align="center"><i>Shooting down bugs before they reach prod lol</i></p>
