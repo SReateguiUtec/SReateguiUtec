@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Sebastian! </h1>
 
-<img src="header.png" alt="Header" width="90%">
+<img src="header.png" alt="Header">
 
 <ins>**CS Student @ UTEC**</ins>
 
